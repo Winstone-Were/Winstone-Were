@@ -8,3 +8,6 @@
 - 📫 How to reach me: ... @amaumo_were on Twitter
 - 😄 Pronouns: ... He, Him
 - ⚡ Fun fact: ... I'm also a producer
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Winstone-Were)](https://github.com/anuraghazra/github-readme-stats)
