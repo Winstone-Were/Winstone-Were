@@ -1,10 +1,5 @@
 [![MasterHead](https://github.com/Winstone-Were/Winstone-Were/blob/main/header.png)](https://github.com/Winstone-Were/)
 
-
-
-
-### Hi there 👋
-
 - 🔭 I’m currently working on ... Recipe App in Go
 - 🌱 I’m currently learning ... Golang 
 - 👯 I’m looking to collaborate on ... Lowlevel development with C++ 
