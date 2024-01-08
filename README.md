@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with ... ESP32 Development
 - 💬 Ask me about ... Backend Webdevelopment and Mobile Development
 - 📫 How to reach me: ... @amaumo_were on Twitter
-- 😄 Pronouns: ... He, Him
 - ⚡ Fun fact: ... I'm also a producer
 
 
