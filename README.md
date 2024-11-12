@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on **Low-level development with C++**
 - 🤔 I’m looking for help with **ESP32 Development**
 - 💬 Ask me about **Backend Web Development and Mobile Development**
-- 📫 How to reach me: [Twitter: @amaumo_were](https://twitter.com/amaumo_were)
+- 📫 How to reach me: [Twitter: @stoniedev](https://twitter.com/stoniedev)
 - ⚡ Fun fact: I’m also a **music producer**
 
 ---
