@@ -8,8 +8,7 @@
 - 📫 How to reach me: ... @amaumo_were on Twitter
 - ⚡ Fun fact: ... I'm also a producer
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Winstone-Were)](https://git.io/streak-stats)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Winstone-Were)](https://github.com/anuraghazra/github-readme-stats)
 <br>
