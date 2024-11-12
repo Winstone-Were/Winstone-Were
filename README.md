@@ -8,7 +8,12 @@
 - 📫 How to reach me: ... @amaumo_were on Twitter
 - ⚡ Fun fact: ... I'm also a producer
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,app,react,nodejs,linux,neovim,lua,docker,c,vim" />
+  </a>
+</p>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Winstone-Were)](https://github.com/anuraghazra/github-readme-stats)
 <br>
