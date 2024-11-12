@@ -36,10 +36,10 @@
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Winstone-Were&show_icons=true&theme=radical" alt="Winstone's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Winstone-Were&show_icons=true" alt="Winstone's GitHub stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winstone-Were&layout=compact&theme=radical" alt="Winstone's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winstone-Were&layout=compact" alt="Winstone's Top Languages" />
   </a>
 </p>
 
