@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&width=435&lines=Passionate+Developer;DJ+and+Music+Producer;Open+Source+Contributor;Back-End+Developer;Android+App+Developer;Linux+Enthusiast" alt="Typing SVG" />
 </p>
 
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Winstone-Were&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
@@ -48,6 +46,6 @@
 ### 🔗 Connect with Me
 
 <p>
-  <a href="https://twitter.com/amaumo_were"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/stoniedev"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:stoniedev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
